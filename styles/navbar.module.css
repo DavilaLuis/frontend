@@ -1,0 +1,15 @@
+.nav{
+  background-color: palevioletred;
+  padding: 1rem;
+}
+
+.nav__items{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav__item{
+  color: #eee;
+  margin-left: 1.2rem;
+}

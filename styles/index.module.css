@@ -1,0 +1,16 @@
+.section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.title{
+  color: blueviolet;
+  font-size: 10rem;
+  font-weight: 200;
+}
+
+.colored{
+  color: palevioletred;
+}
