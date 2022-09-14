@@ -5,7 +5,7 @@ import Link from 'next/link'
 export default function Navbar1(){
   return(
     <div className='container-fluid'>
-    <nav className="navbar navbar-light navbar-expand-lg" style={{backgroundColor :'#dbebfa'}} >
+    <nav className="navbar navbar-light navbar-expand-lg text-dark" style={{backgroundColor :'#f0cce3'}} >
       <div className="container-fluid">
         <a className="navbar-brand" href="#">Cesar Pablo</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
