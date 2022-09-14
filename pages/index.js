@@ -21,7 +21,7 @@ export default function Index(){
     <Layout>
       <section className={styles.section}>
         <p className={styles.title}>
-          Next.<spam className={styles.colored}>js</spam>
+          Cesar Pablo <spam className={styles.colored}>Coach</spam>
         </p>
       </section>
     </Layout>
