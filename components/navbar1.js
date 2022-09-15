@@ -7,7 +7,7 @@ export default function Navbar1(){
     <div className='container-fluid'>
     <nav className="navbar navbar-light navbar-expand-lg text-dark" style={{backgroundColor :'#f0cce3'}} >
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">Cesar Pablo</a>
+        <a className="navbar-brand" href="/">Cesar Pablo</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -17,10 +17,10 @@ export default function Navbar1(){
               <a className="nav-link active" aria-current="page" href="/quiensoy">Quien soy</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Mis Trabajos</a>
+              <a className="nav-link" href="/mistrabajos">Mis Trabajos</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Contacto</a>
+              <a className="nav-link" href="/contacto">Contacto</a>
             </li>
             <li className="nav-item dropdown">
               <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

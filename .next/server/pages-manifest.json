@@ -1,5 +1,12 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/mistrabajos": "pages/mistrabajos.js",
+  "/quiensoy": "pages/quiensoy.js",
+  "/servicios/integral": "pages/servicios/integral.js",
+  "/servicios/empresarial": "pages/servicios/empresarial.js",
+  "/contacto": "pages/contacto.js",
+  "/": "pages/index.js",
+  "/servicios/personal": "pages/servicios/personal.js"
 }

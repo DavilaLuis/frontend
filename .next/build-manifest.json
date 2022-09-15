@@ -29,6 +29,36 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/contacto": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/contacto.js"
+    ],
+    "/mistrabajos": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/mistrabajos.js"
+    ],
+    "/quiensoy": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/quiensoy.js"
+    ],
+    "/servicios/empresarial": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/servicios/empresarial.js"
+    ],
+    "/servicios/integral": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/servicios/integral.js"
+    ],
+    "/servicios/personal": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/servicios/personal.js"
     ]
   },
   "ampFirstPages": []

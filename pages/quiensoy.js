@@ -1,11 +1,14 @@
 import Layout from "../containers/layout";
+import styles from "../styles/index.module.css"
 
 export default function Quiensoy(){
 
   return (
     <Layout>
-        <section>
-        <h1>Quien soy</h1>
+        <section className={styles.section}>
+        <p className={styles.title}>
+          Quien <spam className={styles.colored}>Soy</spam>
+        </p>
         </section>
     </Layout>
     
