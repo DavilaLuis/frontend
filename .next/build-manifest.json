@@ -29,21 +29,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/contacto.js"
-    ],
-    "/mistrabajos": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/mistrabajos.js"
-    ],
-    "/quiensoy": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/quiensoy.js"
-    ],
-    "/servicios/integral": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/servicios/integral.js"
     ]
   },
   "ampFirstPages": []

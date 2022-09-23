@@ -1,3 +1,4 @@
+import Selectcascade from "../components/selectcascade";
 import Layout from "../containers/layout";
 import styles from "../styles/index.module.css"
 
@@ -40,17 +41,20 @@ export default function Contacto(){
               <label htmlFor="inputZip" className="form-label" style={{color: 'blueviolet', fontSize:'1.5rem', fontWeight:350}}>Zip</label>
               <input type="text" className="form-control" id="inputZip"/>
             </div>
-            <div className="col-12">
-              <div className="form-check">
-                <input className="form-check-input" type="checkbox" id="gridCheck"/>
-                <label className="form-check-label" htmlFor="gridCheck">
-                  Check me out
-                </label>
-              </div>
+          
+            <Selectcascade/>
+          
+          <div className="col-12">
+            <div className="form-check">
+              <input className="form-check-input" type="checkbox" id="gridCheck"/>
+              <label className="form-check-label" htmlFor="gridCheck">
+                Check me out
+              </label>
             </div>
-            <div className="col-12">
+          </div>
+          <div className="col-12">
               <button type="submit" className="btn btn-primary">Sign in</button>
-            </div>
+          </div>
           </form>
           </div>
         </section>
