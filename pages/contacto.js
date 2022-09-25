@@ -26,7 +26,7 @@ export default function Contacto(){
               <label htmlFor="inputAddress2" className="form-label" style={{color: 'blueviolet', fontSize:'1.5rem', fontWeight:350}}>Consulta</label>
               <textarea className="form-control" aria-label="With textarea" id="inputconsulta"></textarea>
             </div>
-            <div className="col-md-6">
+            {/* <div className="col-md-6">
               <label htmlFor="inputCity" className="form-label" style={{color: 'blueviolet', fontSize:'1.5rem', fontWeight:350}}>Ciudad</label>
               <input type="text" className="form-control" id="inputCity"/>
             </div>
@@ -40,7 +40,7 @@ export default function Contacto(){
             <div className="col-md-2">
               <label htmlFor="inputZip" className="form-label" style={{color: 'blueviolet', fontSize:'1.5rem', fontWeight:350}}>Zip</label>
               <input type="text" className="form-control" id="inputZip"/>
-            </div>
+            </div> */}
           
             <Selectcascade/>
           
